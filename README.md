@@ -70,6 +70,6 @@ This project presents a **Line Follower Robot with Obstacle Detection** built us
 
 This project was completed as the **final project** for the **CSE-1121 course, 1st semester, May 2024**.
 
-## 👤 Author
+## 👤 Authors
 - [Shahid Mohammed Rokon Uddin (Shawon)](https://github.com/Firewafer)
 - [Md. Tasin Absar](https://github.com/WorldlySage03/)
